@@ -1,0 +1,6 @@
+.idea/
+.idea/*
+target/
+.DS_Store
+dependency-reduced-pom.xml
+spark24mltutorial.iml
